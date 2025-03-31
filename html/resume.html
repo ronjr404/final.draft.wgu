@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Doe - Resume</title>
+    <link rel="stylesheet" href="final.draft.wgu/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>John Doe</h1>
+        <p><em>Web Developer</em></p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="final.draft.wgu/html/portfolio.html">Portfolio</a></li>
+            <li><a href="final.draft.wgu/html/cover-letter.html">Cover Letter</a></li>
+            <li><a href="final.draft.wgu/html/career-goals.html">Career Goals</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Professional Experience</h2>
+            <article>
+                <h3>Web Developer at XYZ Corp</h3>
+                <p><strong>Duration:</strong> 2020 - Present</p>
+                <p><strong>Responsibilities:</strong></p>
+                <ul>
+                    <li>Develop and maintain websites</li>
+                    <li>Optimize user experience</li>
+                    <li>Collaborate with cross-functional teams</li>
+                </ul>
+            </article>
+            <article>
+                <h3>Junior Developer at ABC Ltd.</h3>
+                <p><strong>Duration:</strong> 2018 - 2020</p>
+                <p><strong>Responsibilities:</strong></p>
+                <ul>
+                    <li>Assisted in the development of front-end features</li>
+                    <li>Collaborated with the back-end team</li>
+                </ul>
+            </article>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>React</li>
+            </ul>
+        </section>
+        <footer>
+            <p>&copy; 2025 John Doe</p>
+            <div id="current-date"></div>
+        </footer>
+    </main>
+    <script>
+        document.getElementById('current-date').innerHTML = 'Current Date: ' + new Date().toLocaleDateString();
+        console.log("Resume page loaded!");
+    </script>
+</body>
+</html>
