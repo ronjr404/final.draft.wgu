@@ -5,7 +5,7 @@ Welcome to my portfolio! This is a central hub where you can explore my professi
 ## Resume
 
 Click below to view my detailed resume:
-[View Resume](final.draft.wgu/html/resume.html)
+[View Resume](html/resume.html)
 
 In my resume, you'll find an overview of my professional experience, skills, education, and accomplishments.
 
@@ -14,7 +14,7 @@ In my resume, you'll find an overview of my professional experience, skills, edu
 ## Cover Letter
 
 Learn more about my motivation and why I am passionate about my work in my cover letter:
-[View Cover Letter](final.draft.wgu/html/cover-letter.html)
+[View Cover Letter](html/cover-letter.html)
 
 This cover letter provides insight into my professional values, the type of work I enjoy, and how I can contribute to organizations.
 
@@ -23,7 +23,7 @@ This cover letter provides insight into my professional values, the type of work
 ## Career Goals
 
 In this section, I share my vision for the future and the goals I'm working toward:
-[View Career Goals](final.draft.wgu/html/career-goals.html)
+[View Career Goals](html/career-goals.html)
 
 I’m always striving for continuous growth and development in my career. Here's a look at where I see myself heading and the impact I want to make.
 
@@ -31,4 +31,4 @@ I’m always striving for continuous growth and development in my career. Here's
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, feel free to reach out.
 
-[Contact Me](mailto:your.email@example.com)
+[Contact Me](mailto:rmarce11@wgu.edu)
