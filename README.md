@@ -1,5 +1,3 @@
-<p>style="font-family: Courier New, sans-serif; font-size: 16px
-</p>
 # Ronald Marcellus - Portfolio
 
 Welcome to my portfolio! This is a central hub where you can explore my professional experience, achievements, and future career aspirations.
